@@ -134,5 +134,5 @@ Project Link: [https://github.com/hahmadipoor/eth-swap](https://github.com/hahma
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[Solidity.io]: https://eatthecode.com/wp-content/uploads/2022/06/Solidity-icon-3.png
+[Solidity.io]: https://img.shields.io/badge/solidity-563D7C?style=for-the-badge&logo=solidity&logoColor=white
 [Solidity-url]: https://solidity.io
