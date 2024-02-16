@@ -60,8 +60,8 @@ cryptocurrency exchange application powered by the Ethereum blockchain. It allow
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Solidity][Solidity.com]][JQuery-url]
-* [![Truffle][Truffle.com]][JQuery-url]
+* [![Solidity][Solidity.io]][Solidity-url]
+* [![Truffle][Truffle.com]][Truffle-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
