@@ -61,7 +61,7 @@ cryptocurrency exchange application powered by the Ethereum blockchain. It allow
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Solidity][Solidity.io]][Solidity-url]
-* [![Truffle][Truffle.com]][Truffle-url]
+* [![Truffle][trufflesuite.com]][Truffle-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,3 +136,5 @@ Project Link: [https://github.com/hahmadipoor/eth-swap](https://github.com/hahma
 [Bootstrap-url]: https://getbootstrap.com
 [Solidity.io]: https://img.shields.io/badge/solidity-563D7C?style=for-the-badge&logo=solidity&logoColor=white
 [Solidity-url]: https://solidity.io
+[Solidity.io]: https://img.shields.io/badge/truffle-563D7C?style=for-the-badge&logo=truffle&logoColor=white
+[Solidity-url]: https://trufflesuite.com/
