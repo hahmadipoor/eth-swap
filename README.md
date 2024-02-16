@@ -134,7 +134,7 @@ Project Link: [https://github.com/hahmadipoor/eth-swap](https://github.com/hahma
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[Solidity.io]: https://img.shields.io/badge/solidity-563D7C?style=for-the-badge&logo=solidity&logoColor=607080
+[Solidity.io]: https://img.shields.io/badge/solidity-aabbcc?style=for-the-badge&logo=solidity&logoColor=607080
 [Solidity-url]: https://solidity.io
-[Trufflesuite.com]: https://img.shields.io/badge/truffle-563D7C?style=for-the-badge&logo=truffle&logoColor=white
+[Trufflesuite.com]: https://img.shields.io/badge/truffle-ddaacc?style=for-the-badge&logo=truffle&logoColor=white
 [Truffle-url]: https://trufflesuite.com/
